@@ -1,3 +1,15 @@
 # N body gravitational simulation of giant planets in the Solar System
 
-This repository is mainly used to safe my graduation project. It's about the formation of Uranus and Neptune in the solar system. The simulation is based on Rebound, an N-body integrator, i.e. a software package that can integrate the motion of particles under the influence of gravity. The particles can represent stars, planets, moons, ring or dust particles. REBOUND is very flexible and can be customized to accurately and efficiently solve many problems in astrophysics.
+This repository is mainly used to save my graduation project, which is about simulating the formation of Uranus and Neptune in our solar system. The simulation is based on Rebound, an N-body integrator, i.e. a software package that can integrate the motion of particles under the influence of gravity.
+
+## Code
+
+### Python
+* Test1: Simplest
+* Test2: Simulation with test particles 
+* Test3: Simulation with colliding and merging
+* Test4: Colliding and merging planets
+* Test5
+
+### C
+* Planetesimal_Disk_Migration
